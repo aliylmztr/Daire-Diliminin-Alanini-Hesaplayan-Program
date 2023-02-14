@@ -6,7 +6,7 @@ www.patika.dev
 
 import java.util.Scanner;
 
-public class Main20 {
+public class Main {
     public static void main(String[] args) {
 
         int r, α;
